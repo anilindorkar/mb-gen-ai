@@ -1,0 +1,11 @@
+Review this C# code as an expert.
+Follow Microsoft best practices.
+Refer to previous PRs in this repository for context.
+Provide only code review comments or improvements.
+    No summary
+    No conclusion
+    No extra sections
+For each issue
+    Highlight the problematic code
+    Suggest how it can be fixed
+Focus on actionable feedback to help the developer get PR approval.
